@@ -89,6 +89,7 @@
     </Reference>
     <Reference Include="FlexCell, Version=4.3.2.0, Culture=neutral, PublicKeyToken=6f86587eb70ee309, processorArchitecture=MSIL">
       <HintPath>..\packages\Dlls\FlexCell.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Ninject.Extensions.Logging, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
       <HintPath>..\..\..\Documents\Visual Studio 2017\Ninject.Extensions.Logging-3.0.1.0-release-silverlight-3.0\Ninject.Extensions.Logging.dll</HintPath>
@@ -337,7 +338,9 @@
     <EmbeddedResource Include="LoadingDialog.resx">
       <DependentUpon>LoadingDialog.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\licenses.licx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>

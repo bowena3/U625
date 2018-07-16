@@ -22,7 +22,7 @@
         Public Color As New Udt_Opt_Item()
         Public Camera_Vision As New Udt_Opt_Item()
         Public Police_Flasher As New Udt_Opt_Item()
-        Public AutoFold As New Udt_Opt_Item()
+        'Public AutoFold As New Udt_Opt_Item()
         'Public Actuator As New Udt_Opt_Item()
         'Public PowerExt As New Udt_Opt_Item()
         'Public Oats As New Udt_Opt_Item()

@@ -28,6 +28,7 @@
         Public Camera_Amps As New Udt_MinMax
         Public Gps_Amps As New Udt_MinMax
         Public Ca_Amps As New Udt_MinMax
+        Public Police_Mod As New Udt_MinMax
     End Class
 
     'Public Class Model_Setpoints
