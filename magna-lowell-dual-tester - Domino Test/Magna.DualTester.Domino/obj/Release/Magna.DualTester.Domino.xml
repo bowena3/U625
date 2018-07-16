@@ -1,0 +1,305 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Magna.DualTester.Domino
+</name>
+</assembly>
+<members>
+<member name="T:Magna.DualTester.Domino.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw04dn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw04lt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw04rt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw04up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw06dn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw06lt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw06rt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.arw06up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.ARWDWN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.ARWLeft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.ARWRight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.ARWUP">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.bullet_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.bullet_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.bullet_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.Bzi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.CR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.defog">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.dvt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.GroundCheck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.HtrSymb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.LED">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.Light">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.lightoff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.lighton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.RubberStamp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.SECUR02A">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.SECUR02B">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.SINEWAVE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.SOL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.My.Resources.Resources.Turn_Signal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Domino.CfgTool.FileName">
+ <summary>
+ This is the name of the file the settings will be saved to.
+ </summary>
+ <remarks>Might be a better idea to store and load this string in the app.config</remarks>
+</member>
+<member name="M:Magna.DualTester.Domino.LoadingDialog.Check(System.String)">
+ <summary>
+ If the string is null or empty then it gets the green bullet picture. If the string is somthing else return the
+ red bullet picture.
+ </summary>
+ <remarks>This could be made fancier but I don't feel the need to dive into it.</remarks>
+</member>
+<member name="F:Magna.DualTester.Domino.TesterApi.Udt_Logvalues.ResultCode">
+ <summary>
+  3 = part errors /
+  2 = part passed /
+  anything else is not defined
+ </summary>
+</member>
+<member name="F:Magna.DualTester.Domino.TesterApi.Udt_Opt_Item.Status">
+ <summary>
+ 0: Nothing
+ 1:Pending
+ 2:Pass
+ 3:Fail
+ 4:Test1 Pass Test2 Pending
+ </summary>
+</member>
+<member name="T:Magna.DualTester.Domino.UI.Dialogs.ValueDialog">
+ <summary>
+ This is a popup numeric edit box used on the <c>CalibrationSubUserControl</c>
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Magna.DualTester.Domino.UI.Dialogs.ValueDialog.#ctor(System.String,Magna.DualTester.Domino.UI.Dialogs.ValueDialog.Units,System.Single,Magna.DualTester.Core.User,Magna.DualTester.Core.IMessageAlertService)">
+ <summary>
+ 
+ </summary>
+ <param name="title">Concatenated into the title of the dialog box to look like "Editing [title]"</param>
+ <param name="unit">Of the type units, this determines what will display next to the input.</param>
+ <param name="currentValue"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Magna.DualTester.Domino.UI.Dialogs.ValueDialog.TextBox1_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ This function checks for valid keyboard inputs.
+ </summary>
+ <remarks><c>e.Handled</c> makes it so the character is not placed in the textbox.</remarks>
+</member>
+<member name="P:Magna.DualTester.Domino.UI.Views.Calibration.ViewCalibration.ScreenUnlocked">
+ <summary>
+ This property controls whether or not the 3 user controls are locked or not. Setting this to false will lock the user controls,
+ and will unlock the controls if set to true.
+ </summary>
+</member>
+<member name="P:Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView._cellDictPartData">
+ <summary>
+ the key will be a field name in a class and the value will be its corresponding cell
+ </summary>
+</member>
+<member name="P:Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView._cellDictPartOptions">
+ <summary>
+ the key will be a field name in a class and the value will be its corresponding cell
+ </summary>
+</member>
+<member name="P:Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView._tester">
+ <summary>
+ This will hold the data every time the udt data structure is reloaded.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView.FixCounts">
+ <summary>
+ If any values under tester count are less than zero then the value will be set to zero.
+ </summary>
+</member>
+<member name="T:Magna.DualTester.Domino.UI.Views.Settings.ApplicationSettingsView">
+ <summary>
+ This is a parent user control that holds the <c>ViewShiftSetup</c> and <c>ViewApplicaionParameters</c> in a set of tabs.
+ </summary>
+ <remarks>This class shouldn't handle any user data it only controls a few user controls.</remarks>
+</member>
+<member name="T:Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup">
+ <summary>
+ This is one of the views that edits the config file for this application.
+ </summary>
+</member>
+<member name="F:Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup._coms1">
+ <summary>
+ holds a list of active com ports on this computer. Is bound to a list box for users to select.
+ </summary>
+</member>
+<member name="M:Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.Check(System.Windows.Forms.TextBox,System.Text.RegularExpressions.Regex,System.String@)">
+ <summary>
+ Used by the <c>SaveConfig</c> function to see if input strings are correct. And to highlight problem textboxes.
+ Incorrect strings are nulled out and returned thru their reference.
+ </summary>
+ <param name="txtbox">Handing this in allows the highlighting of incorrect inputs</param>
+ <param name="regex">This is the pattern the string will be checked against</param>
+ <param name="str">This is the string to be checked. This is a reference, the string can be modified so it should be used as the final output.</param>
+ <returns>-1 implies the string is blank. 0 implies the string is wrong. 1 implies the string is good.</returns>
+</member>
+<member name="M:Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.TxtLabelRequestPath_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ This function checks to see if the text entered is a valid file directory every time focus is lost.
+ If its not the textbox is turned yellow.
+ </summary>
+</member>
+<member name="M:Magna.DualTester.Domino.PnAndQtyEdit.#ctor(System.String,System.Int32,Magna.DualTester.Core.User,System.String,System.String,Magna.DualTester.Core.IMessageAlertService)">
+ <summary>
+ 
+ </summary>
+ <param name="title">Concatenated into the title of the dialog box to look like "Editing [title]"</param>
+ <param name="Pn">Part Number Line is Tester is currently Running</param>
+ <param name="currentValue"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Magna.DualTester.Domino.PnAndQtyEdit.TextBox1_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ This function checks for valid keyboard inputs.
+ </summary>
+ <remarks><c>e.Handled</c> makes it so the character is not placed in the textbox.</remarks>
+</member>
+</members>
+</doc>

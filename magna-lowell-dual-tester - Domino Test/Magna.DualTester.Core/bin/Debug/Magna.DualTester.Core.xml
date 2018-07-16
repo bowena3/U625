@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Magna.DualTester.Core
+</name>
+</assembly>
+<members>
+<member name="T:Magna.DualTester.Core.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Core.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Core.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Magna.DualTester.Core.Data.CfgSettings">
+ <summary>
+ This is the source file for the applications config file. There is no error handling in this file it should 
+ be taken care of on the form.
+ </summary>
+</member>
+<member name="T:Magna.DualTester.Core.Data.Enums.AccessLevel">
+ <summary>
+ This class represents the user levels listed in the plc.
+ </summary>
+</member>
+<member name="T:Magna.DualTester.Core.Data.EnglishSpanishMap">
+ <summary>
+ This was created to fulfill the need to keep track of colors, sequenceStrings, alarm strings, and part faults.
+ </summary>
+ <remarks>This isn't very explicit so it should be used with caution</remarks>
+</member>
+<member name="P:Magna.DualTester.Core.Data.EnglishSpanishMap.English">
+ <summary>
+ This property is exposed for the datagridview in the settings view
+ </summary>
+</member>
+<member name="P:Magna.DualTester.Core.Data.EnglishSpanishMap.Spanish">
+ <summary>
+ This property is exposed for the datagridview in the settings view
+ </summary>
+</member>
+<member name="P:Magna.DualTester.Core.Data.EnglishSpanishMap.EnglishSpanish.EnglishString">
+ <summary>
+ <c>Left string is used for the English string in all except <c>Colors</c> where it is <c>Pcode</c></c>
+ </summary>
+</member>
+<member name="P:Magna.DualTester.Core.Data.EnglishSpanishMap.EnglishSpanish.SpanishString">
+ <summary>
+ <c>RightString</c> is used for the Spanish string in all cases except <c>Colors</c> where it is <c>Color</c>
+ </summary>
+</member>
+<member name="T:Magna.DualTester.Core.SaveEventArgs">
+ <summary>
+ This is used when the event <c>BaseView.Saved</c> is called. It stores the Plc address and the Udt item to write. 
+ </summary>
+</member>
+<member name="M:Magna.DualTester.Core.Tools.BarCodeScanner.OnDataRecieved(System.Object,System.IO.Ports.SerialDataReceivedEventArgs)">
+ <summary>
+ This function is called when the barcode scanner receives data.
+ </summary>   
+</member>
+</members>
+</doc>

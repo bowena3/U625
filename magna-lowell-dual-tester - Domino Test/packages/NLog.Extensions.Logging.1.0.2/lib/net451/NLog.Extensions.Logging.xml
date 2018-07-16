@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NLog.Extensions.Logging</name>
+    </assembly>
+    <members>
+        <member name="T:NLog.Extensions.Logging.ConfigureExtensions">
+            <summary>
+            Helpers for .NET Core
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.ConfigureExtensions.AddNLog(Microsoft.Extensions.Logging.ILoggerFactory)">
+            <summary>
+            Enable NLog as logging provider in .NET Core.
+            </summary>
+            <param name="factory"></param>
+            <returns>ILoggerFactory for chaining</returns>
+        </member>
+        <member name="M:NLog.Extensions.Logging.ConfigureExtensions.AddNLog(Microsoft.Extensions.Logging.ILoggerFactory,NLog.Extensions.Logging.NLogProviderOptions)">
+            <summary>
+            Enable NLog as logging provider in .NET Core.
+            </summary>
+            <param name="factory"></param>
+            <param name="options">NLog options</param>
+            <returns>ILoggerFactory for chaining</returns>
+        </member>
+        <member name="M:NLog.Extensions.Logging.ConfigureExtensions.ConfigureNLog(Microsoft.Extensions.Logging.ILoggerFactory,System.String)">
+            <summary>
+            Apply NLog configuration from XML config.
+            </summary>
+            <param name="loggerFactory"></param>
+            <param name="configFileRelativePath">relative path to NLog configuration file.</param>
+            <returns>Current configuration for chaining.</returns>
+        </member>
+        <member name="M:NLog.Extensions.Logging.ConfigureExtensions.ConfigureNLog(Microsoft.Extensions.Logging.ILoggerFactory,NLog.Config.LoggingConfiguration)">
+            <summary>
+            Apply NLog configuration from config object.
+            </summary>
+            <param name="loggerFactory"></param>
+            <param name="config">New NLog config.</param>
+            <returns>Current configuration for chaining.</returns>
+        </member>
+        <member name="T:NLog.Extensions.Logging.NLogLogger">
+            <summary>
+            Wrap NLog's Logger in a Microsoft.Extensions.Logging's interface <see cref="T:Microsoft.Extensions.Logging.ILogger"/>.
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLogger.CreateLogEventInfoWithMultipleParameters(NLog.LogLevel,System.String,System.Collections.Generic.IReadOnlyList{System.Collections.Generic.KeyValuePair{System.String,System.Object}})">
+            <summary>
+            Create Log Event with multiple parameters (last parameter is the {OriginalFormat})
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLogger.IsEnabled(Microsoft.Extensions.Logging.LogLevel)">
+            <summary>
+            Is logging enabled for this logger at this <paramref name="logLevel"/>?
+            </summary>
+            <param name="logLevel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLogger.IsEnabled(NLog.LogLevel)">
+            <summary>
+            Is logging enabled for this logger at this <paramref name="logLevel"/>?
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLogger.ConvertLogLevel(Microsoft.Extensions.Logging.LogLevel)">
+            <summary>
+            Convert loglevel to NLog variant.
+            </summary>
+            <param name="logLevel">level to be converted.</param>
+            <returns></returns>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLogger.BeginScope``1(``0)">
+            <summary>
+            Begin a scope. Use in config with ${ndlc} 
+            </summary>
+            <param name="state">The state (message)</param>
+            <returns></returns>
+        </member>
+        <member name="T:NLog.Extensions.Logging.NLogLoggerFactory">
+            <summary>
+            Creating DI loggers for Microsoft.Extensions.Logging and NLog
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerFactory.#ctor">
+            <summary>
+            New factory with default options
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerFactory.#ctor(NLog.Extensions.Logging.NLogProviderOptions)">
+            <summary>
+            New factory with options. 
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerFactory.Dispose">
+            <summary>
+            Dispose
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerFactory.CreateLogger(System.String)">
+            <summary>
+            Creates a new <see cref="T:Microsoft.Extensions.Logging.ILogger" /> instance.
+            </summary>
+            <param name="categoryName">The logger name for messages produced by the logger.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.Logging.ILogger" />.</returns>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerFactory.AddProvider(Microsoft.Extensions.Logging.ILoggerProvider)">
+            <summary>
+            Do nothing
+            </summary>
+            <param name="provider">The <see cref="T:Microsoft.Extensions.Logging.ILoggerProvider" />.</param>
+        </member>
+        <member name="T:NLog.Extensions.Logging.NLogLoggerProvider">
+            <summary>
+            Provider logger for NLog + Microsoft.Extensions.Logging
+            </summary>
+        </member>
+        <member name="P:NLog.Extensions.Logging.NLogLoggerProvider.Options">
+            <summary>
+            NLog options
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerProvider.#ctor">
+            <summary>
+            New provider with default options, see <see cref="P:NLog.Extensions.Logging.NLogLoggerProvider.Options"/>
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerProvider.#ctor(NLog.Extensions.Logging.NLogProviderOptions)">
+            <summary>
+            New provider with options
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerProvider.CreateLogger(System.String)">
+            <summary>
+            Create a logger with the name <paramref name="name"/>.
+            </summary>
+            <param name="name">Name of the logger to be created.</param>
+            <returns>New Logger</returns>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerProvider.Dispose">
+            <summary>
+            Cleanup
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogLoggerProvider.RegisterHiddenAssembliesForCallSite">
+            <summary>
+            Ignore assemblies for ${callsite}
+            </summary>
+        </member>
+        <member name="T:NLog.Extensions.Logging.NLogMessageParameterList">
+            <summary>
+            Converts Microsoft Extension Logging ParameterList into NLog MessageTemplate ParameterList
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogMessageParameterList.IsValidParameterList(System.Collections.Generic.IReadOnlyList{System.Collections.Generic.KeyValuePair{System.String,System.Object}},System.Nullable{System.Int32}@)">
+            <summary>
+            Verify that the input parameterList contains non-empty key-values and the orignal-format-property at the end
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogMessageParameterList.CreateValidParameterList(System.Collections.Generic.IReadOnlyList{System.Collections.Generic.KeyValuePair{System.String,System.Object}})">
+            <summary>
+            Extract all valid properties from the input parameterList, and return them in a newly allocated list
+            </summary>
+        </member>
+        <member name="T:NLog.Extensions.Logging.NLogProviderOptions">
+            <summary>
+            Options for logging to NLog with 
+            </summary>
+        </member>
+        <member name="P:NLog.Extensions.Logging.NLogProviderOptions.EventIdSeparator">
+            <summary>
+            Separator between for EventId.Id and EventId.Name. Default to .
+            </summary>
+        </member>
+        <member name="P:NLog.Extensions.Logging.NLogProviderOptions.IgnoreEmptyEventId">
+            <summary>
+            Skip allocation of <see cref="P:NLog.LogEventInfo.Properties" />-dictionary
+            </summary>
+            <remarks>
+            using
+                <c>default(EventId)</c></remarks>
+        </member>
+        <member name="P:NLog.Extensions.Logging.NLogProviderOptions.CaptureMessageTemplates">
+            <summary>
+            Enable structured logging by capturing message template parameters and inject into the <see cref="P:NLog.LogEventInfo.Properties" />-dictionary
+            </summary>
+        </member>
+        <member name="P:NLog.Extensions.Logging.NLogProviderOptions.CaptureMessageProperties">
+            <summary>
+            Enable capture of properties from the ILogger-State-object, both in <see cref="M:Microsoft.Extensions.Logging.ILogger.Log``1(Microsoft.Extensions.Logging.LogLevel,Microsoft.Extensions.Logging.EventId,``0,System.Exception,System.Func{``0,System.Exception,System.String})"/> and <see cref="M:Microsoft.Extensions.Logging.ILogger.BeginScope``1(``0)"/>
+            </summary>
+        </member>
+        <member name="M:NLog.Extensions.Logging.NLogProviderOptions.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:System.Object" /> class.</summary>
+        </member>
+        <member name="F:NLog.Extensions.Logging.NLogProviderOptions.Default">
+            <summary>
+            Default options
+            </summary>
+        </member>
+    </members>
+</doc>

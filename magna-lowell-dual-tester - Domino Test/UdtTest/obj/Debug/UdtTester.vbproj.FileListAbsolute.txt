@@ -1,0 +1,6 @@
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\UdtTest\obj\Debug\UdtTester.vbprojAssemblyReference.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\UdtTest\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\UdtTest\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\UdtTest\obj\Debug\UdtTester.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\UdtTest\obj\Debug\WindowsApplication1.exe.licenses
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\UdtTest\obj\Debug\UdtTester.vbproj.CoreCompileInputs.cache

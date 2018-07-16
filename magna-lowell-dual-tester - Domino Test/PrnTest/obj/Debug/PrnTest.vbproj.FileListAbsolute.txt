@@ -1,0 +1,24 @@
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\bin\Debug\PrnTest.exe.config
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\bin\Debug\PrnTest.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\bin\Debug\PrnTest.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\bin\Debug\PrnTest.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.vbprojAssemblyReference.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.Form1.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\PrnTest\obj\Debug\PrnTest.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\bin\Debug\PrnTest.exe.config
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\bin\Debug\PrnTest.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\bin\Debug\PrnTest.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\bin\Debug\PrnTest.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.vbprojAssemblyReference.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.Form1.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\PrnTest\obj\Debug\PrnTest.pdb

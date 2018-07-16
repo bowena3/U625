@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Magna.DualTester.Domino", "Magna.DualTester.Domino\Magna.DualTester.Domino.vbproj", "{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Magna.DualTester.Plc.Core", "Magna.DualTester.Plc.Core\Magna.DualTester.Plc.Core.vbproj", "{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Magna.DualTester.Core", "Magna.DualTester.Core\Magna.DualTester.Core.vbproj", "{88DE9DC4-AC72-4916-8164-FF59CBD23476}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46D3ECCB-92A9-4740-9B87-93FE8EACD1BB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Program Files\Automated Solutions\ASComm.NET 3.9\licenses.licx = ..\..\..\..\Program Files\Automated Solutions\ASComm.NET 3.9\licenses.licx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{9AD047DA-0092-4CBB-BE04-FF92E68D9B6F}.Release|x86.Build.0 = Release|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Debug|x86.Build.0 = Debug|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Release|x86.ActiveCfg = Release|Any CPU
+		{88F265CD-FD89-4F2A-9EA0-1A8DDE52B928}.Release|x86.Build.0 = Release|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Debug|x86.Build.0 = Debug|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Release|x86.ActiveCfg = Release|Any CPU
+		{88DE9DC4-AC72-4916-8164-FF59CBD23476}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0B101E-9E4D-46D4-A747-DC16B9E75BA5}
+	EndGlobalSection
+EndGlobal

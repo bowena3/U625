@@ -1,0 +1,6 @@
+AutomatedSolutions.Win.Comm.AB.Logix.Net.Channel, AutomatedSolutions.ASComm, Version=3.9.0.0, Culture=neutral, PublicKeyToken=67272fe3f372ded3
+AutomatedSolutions.Win.Comm.MB.Master.Net.Channel, AutomatedSolutions.ASComm, Version=3.9.0.0, Culture=neutral, PublicKeyToken=67272fe3f372ded3
+AutomatedSolutions.Win.Comm.MB.Master.Serial.Channel, AutomatedSolutions.ASComm, Version=3.9.0.0, Culture=neutral, PublicKeyToken=67272fe3f372ded3
+AutomatedSolutions.Win.Comm.AB.Legacy.Net.Channel, AutomatedSolutions.ASComm, Version=3.9.0.0, Culture=neutral, PublicKeyToken=67272fe3f372ded3
+AutomatedSolutions.Win.Comm.GE.SRTP.Channel, AutomatedSolutions.ASComm, Version=3.9.0.0, Culture=neutral, PublicKeyToken=67272fe3f372ded3
+AutomatedSolutions.Win.Comm.SI.S7.Net.Channel, AutomatedSolutions.ASComm, Version=3.9.0.0, Culture=neutral, PublicKeyToken=67272fe3f372ded3

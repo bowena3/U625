@@ -1,0 +1,47 @@
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.pdb
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.pdb
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.xml
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbprojAssemblyReference.cache
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.Resources.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.GenerateResource.cache
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.CoreCompileInputs.cache
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.xml
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbprojAssemblyReference.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.Resources.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.GenerateResource.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.CoreCompileInputs.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.Resources.resources
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\source\repos\U625\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Core\obj\Debug\Magna.DualTester.Core.pdb

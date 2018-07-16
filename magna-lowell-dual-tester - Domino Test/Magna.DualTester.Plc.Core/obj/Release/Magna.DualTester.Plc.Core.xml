@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Magna.DualTester.Plc.Core
+</name>
+</assembly>
+<members>
+<member name="T:Magna.DualTester.Plc.Core.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Plc.Core.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Magna.DualTester.Plc.Core.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Magna.DualTester.Plc.Core.Tools.AsConnection`1">
+ <summary>
+ Created to make an easy to use interface for accessing the plc.
+ </summary>
+</member>
+<member name="M:Magna.DualTester.Plc.Core.Tools.AsConnection`1.#ctor(Magna.DualTester.Plc.Core.IPlcCfgFactory,Magna.DualTester.Core.IPlcAlertService,Magna.DualTester.Plc.Core.IAsTest)">
+ <summary>
+ This sub initializes all the main components for reading the plc.
+ </summary>
+</member>
+<member name="M:Magna.DualTester.Plc.Core.Tools.AsConnection`1.Item_DataChangedEventHandler(System.Object,System.EventArgs)">
+ <summary>
+ This sub will attempt to read the plc. If it cannot however it will attempt to rerun <c>Init</c>.
+ </summary>
+ <remarks>It might be a bad idea to rerun <c>Init</c> from here.</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,304 @@
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbprojAssemblyReference.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form1.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.LoadingDialog.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogColorSelector.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogCountEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.DialogGetStr.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogStringEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PnAndQtyEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.ValueDialog.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form2.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.ActuatorUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.AreUSureAlgCfg.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.CalibrationSubUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.TesterDevicesUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Uc_Coordinate.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.ViewCalibration.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestDataControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestOptionsUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.NestPartOptions.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PartNumberStatus.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Setpoints.ViewTesterSetpoints.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.ApplicationSettingsView.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewApplicationParameters.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.ViewPrintSetup.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.licenses
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe.config
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Ninject.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\NLog.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\FlexCell.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CopyComplete
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe.config
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Ninject.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\NLog.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\FlexCell.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbprojAssemblyReference.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form1.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.LoadingDialog.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Resources.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogColorSelector.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogCountEdit.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.DialogGetStr.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogStringEdit.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PnAndQtyEdit.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.ValueDialog.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form2.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.ActuatorUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.AreUSureAlgCfg.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.CalibrationSubUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.TesterDevicesUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Uc_Coordinate.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.ViewCalibration.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestDataControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestOptionsUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.NestPartOptions.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PartNumberStatus.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Setpoints.ViewTesterSetpoints.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.ApplicationSettingsView.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewApplicationParameters.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.ViewPrintSetup.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.GenerateResource.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.licenses
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CoreCompileInputs.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CopyComplete
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.pdb
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe.config
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.pdb
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.xml
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Ninject.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\NLog.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\FlexCell.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.dll
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.pdb
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.xml
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.pdb
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.xml
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.xml
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbprojAssemblyReference.cache
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form1.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.LoadingDialog.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Resources.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogColorSelector.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogCountEdit.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.DialogGetStr.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogStringEdit.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PnAndQtyEdit.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.ValueDialog.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form2.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.ActuatorUserControl.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.AreUSureAlgCfg.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.CalibrationSubUserControl.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.TesterDevicesUserControl.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Uc_Coordinate.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.ViewCalibration.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestDataControl.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestOptionsUserControl.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.NestPartOptions.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PartNumberStatus.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Setpoints.ViewTesterSetpoints.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.ApplicationSettingsView.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewApplicationParameters.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.ViewPrintSetup.resources
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.GenerateResource.cache
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.licenses
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CoreCompileInputs.cache
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CopyComplete
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.xml
+M:\OneDrive\40253\OneDrive - Magna\Program Launches\magna-lowell-dual-tester - Master\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe.config
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Ninject.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\NLog.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\FlexCell.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.dll
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.pdb
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbprojAssemblyReference.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form1.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.LoadingDialog.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Resources.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogColorSelector.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogCountEdit.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.DialogGetStr.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogStringEdit.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PnAndQtyEdit.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.ValueDialog.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form2.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.ActuatorUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.AreUSureAlgCfg.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.CalibrationSubUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.TesterDevicesUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Uc_Coordinate.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.ViewCalibration.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestDataControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestOptionsUserControl.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.NestPartOptions.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PartNumberStatus.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Setpoints.ViewTesterSetpoints.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.ApplicationSettingsView.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewApplicationParameters.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.ViewPrintSetup.resources
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.GenerateResource.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.licenses
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CoreCompileInputs.cache
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CopyComplete
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.xml
+C:\Users\mal-tester\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbprojAssemblyReference.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form1.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.LoadingDialog.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogColorSelector.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogCountEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.DialogGetStr.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogStringEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PnAndQtyEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.ValueDialog.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form2.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.ActuatorUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.AreUSureAlgCfg.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.CalibrationSubUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.TesterDevicesUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Uc_Coordinate.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.ViewCalibration.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestDataControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestOptionsUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.NestPartOptions.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PartNumberStatus.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Setpoints.ViewTesterSetpoints.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.ApplicationSettingsView.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewApplicationParameters.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.ViewPrintSetup.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.licenses
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe.config
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Ninject.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\FlexCell.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Ninject.Extensions.Logging.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\NLog.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Ninject.Extensions.Logging.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\Ninject.Extensions.Logging.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\bin\Debug\NLog.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.config
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CopyComplete
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbprojAssemblyReference.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form1.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.LoadingDialog.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Resources.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogColorSelector.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogCountEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.DialogGetStr.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.DialogStringEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PnAndQtyEdit.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Dialogs.ValueDialog.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Form2.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.ActuatorUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.AreUSureAlgCfg.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.CalibrationSubUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.SubViews.TesterDevicesUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.Uc_Coordinate.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Calibration.ViewCalibration.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestDataControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestOptionsUserControl.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.NestPartOptions.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.PartNumberStatus.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.MainView.ViewMainUserOverView.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Setpoints.ViewTesterSetpoints.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.ApplicationSettingsView.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewApplicationParameters.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.UI.Views.Settings.SubViews.ViewShiftSetup.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.ViewPrintSetup.resources
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.GenerateResource.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.licenses
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CoreCompileInputs.cache
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe.config
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.exe
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Domino.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Ninject.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\FlexCell.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Ninject.Extensions.Logging.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\NLog.dll
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\AutomatedSolutions.ASComm.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Ninject.Extensions.Logging.pdb
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Ninject.Extensions.Logging.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\NLog.xml
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.exe.config
+C:\Users\e40253.MAGNA\Desktop\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\obj\Debug\Magna.DualTester.Domino.vbproj.CopyComplete
