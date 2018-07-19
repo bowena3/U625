@@ -78,19 +78,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TBgi9ipodcU7ji611Sq08TECUUFzT4EF7oQOHaxsQjw=</dsig:DigestValue>
+        <dsig:DigestValue>U/gY03lx9wJLdh7m2PpRcdY04dkQDt2xM9eZc60yLP4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magna.DualTester.Domino.exe" size="400808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magna.DualTester.Domino.exe" size="401320">
       <assemblyIdentity name="Magna.DualTester.Domino" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cBAJQJl3U3rP1/vnwFIG6NqxZ8P9JHt0Q8vlm+AoFj8=</dsig:DigestValue>
+        <dsig:DigestValue>23auF20pnipZ0ZjimR02FPEgL7+IEBkHjl205Fm9hxI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -102,7 +102,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>48PREJeRwuxQTy1RsV+zTbG97JWah05yQ0Uj9OpW8Zw=</dsig:DigestValue>
+        <dsig:DigestValue>TZwz/iTUEGCBDUFpgQQiUv17XbREMVx2dvYcKLk9dVU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

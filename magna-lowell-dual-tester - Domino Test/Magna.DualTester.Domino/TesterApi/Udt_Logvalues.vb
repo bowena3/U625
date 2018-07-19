@@ -43,6 +43,8 @@ Namespace TesterApi
         Public Camera_Amp As New Udt_LogItem
         Public Gps_Amp As New Udt_LogItem
         Public Ca_Amp As New Udt_LogItem
+        Public Pol_pat As New Udt_LogItem
+        Public Pol_sync As New Udt_LogItem
 
         ''' <summary>
         '''  3 = part errors /
