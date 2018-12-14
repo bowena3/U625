@@ -82,6 +82,9 @@
   <PropertyGroup>
     <SignManifests>true</SignManifests>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>0001_1784KTCS.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="AutomatedSolutions.ASComm, Version=3.9.0.0, Culture=neutral, PublicKeyToken=67272fe3f372ded3, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -464,6 +467,7 @@
     <None Include="Resources\arw06up.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="0001_1784KTCS.ico" />
     <Content Include="Resources\ARWDWN.ICO" />
     <Content Include="Resources\ARWLeft.ICO" />
     <Content Include="Resources\ARWRight.ICO" />

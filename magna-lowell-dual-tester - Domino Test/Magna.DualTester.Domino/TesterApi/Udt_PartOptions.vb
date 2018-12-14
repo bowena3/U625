@@ -4,7 +4,7 @@
 
         'Removed Glass items and placed them in GlassOptions
         Public Bzi As New Udt_Opt_Item()
-        Public Cam_Physical As Udt_Opt_Item()
+        Public Cam_Physical As New Udt_Opt_Item()
         Public Camera_Vision As New Udt_Opt_Item()
         Public ChromeFeature As New Udt_Opt_Item()
         Public Color As New Udt_Opt_Item()

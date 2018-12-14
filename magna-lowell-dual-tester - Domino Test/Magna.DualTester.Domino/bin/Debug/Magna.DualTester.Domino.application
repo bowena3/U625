@@ -14,14 +14,14 @@
     <framework targetVersion="4.6" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Magna.DualTester.Domino.exe.manifest" size="11083">
+    <dependentAssembly dependencyType="install" codebase="Magna.DualTester.Domino.exe.manifest" size="11571">
       <assemblyIdentity name="Magna.DualTester.Domino.exe" version="1.8.6.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UWRwrIPkoh25b4y+Zk2KcV7NsRMt09u2FaX7HUvUdrA=</dsig:DigestValue>
+        <dsig:DigestValue>WV5CP9WYLv8nW0sJCcj4q6N2hiM8DlZ26QZzhT88JNU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

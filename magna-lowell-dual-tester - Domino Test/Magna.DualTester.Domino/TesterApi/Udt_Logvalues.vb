@@ -44,9 +44,9 @@ Namespace TesterApi
         Public CargoLamp_Amp As New Udt_LogItem
         Public Camera_Amp As New Udt_LogItem
         Public Police_Wire As New Udt_LogItem
+
+
         'Public Pol_Sync As New Udt_LogItem
-
-
         'Public Gps_Amp As New Udt_LogItem
         'Public Ca_Amp As New Udt_LogItem
         ''' <summary>

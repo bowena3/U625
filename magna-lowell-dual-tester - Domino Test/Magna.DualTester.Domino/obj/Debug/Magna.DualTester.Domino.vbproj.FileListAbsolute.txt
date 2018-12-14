@@ -375,7 +375,6 @@ C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Tes
 C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\FlexCell.dll
 C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.dll
 C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Plc.Core.dll
-C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Ninject.Extensions.Logging.dll
 C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\NLog.dll
 C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.pdb
 C:\Users\e40253.MAGNA\source\repos\U625_RH\magna-lowell-dual-tester - Domino Test\Magna.DualTester.Domino\bin\Debug\Magna.DualTester.Core.xml

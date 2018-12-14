@@ -15233,6 +15233,83 @@
             
             </summary>
         </member>
+        <member name="T:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest">
+            <summary>
+            CIP Logix Write Tag Request decoder
+            </summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.requestService">
+            <summary>
+            Write Tag Request Service 
+            </summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.requestPathSize">
+            <summary>
+            Request Path Size
+            </summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.requestPath">
+            <summary>
+            Request Path
+            </summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.tagTypeCode">
+            <summary>
+            Tag Type
+            </summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.elementsToWrite">
+            <summary>
+            Number of Elements to Write
+            </summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.data">
+            <summary>
+            Data
+            </summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.structureHandle">
+            <summary>
+            Valid only when TagTypeCode == 0xA002 indicating structured data.
+            Contains structure handle for structured data.
+            </summary>
+        </member>
+        <member name="M:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.#ctor(System.Byte[])">
+            <summary>
+            Assignment Constructor
+            </summary>
+            <param name="messageRequest"></param>
+        </member>
+        <member name="P:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.RequestService">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.RequestPathSize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.RequestPath">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.TagTypeCode">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.TotalElementsToWrite">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.LogixWriteTagServiceRequest.Data">
+            <summary>
+            
+            </summary>
+        </member>
         <member name="T:AutomatedSolutions.Win.Comm.AB.Protocol.CIP.Decode.CMForwardOpenRequest">
             <summary>
             This class is used to decode a CIP Connection Manager Forward Open Request
@@ -17545,6 +17622,11 @@
             Reusable socket variable
             </summary>
         </member>
+        <member name="F:AutomatedSolutions.Win.Comm.SI.S7.Net.Channel.channelLock">
+            <summary>
+            Prevent simultaneous channel transactions
+            </summary>
+        </member>
         <member name="M:AutomatedSolutions.Win.Comm.SI.S7.Net.Channel.#ctor">
             <summary>
             Default Constructor
@@ -17561,13 +17643,6 @@
             <summary>
             Gets the DeviceCollection containing devices for this Channel.
             </summary>
-        </member>
-        <member name="M:AutomatedSolutions.Win.Comm.SI.S7.Net.Channel.ConvertS7ExToChannelEx(AutomatedSolutions.Win.Comm.SI.S7.S7ExceptionCategory,System.Int32)">
-            <summary>
-            
-            </summary>
-            <param name="category"></param>
-            <param name="errorCode"></param>
         </member>
         <member name="M:AutomatedSolutions.Win.Comm.SI.S7.Net.Channel.ReadOptimized(AutomatedSolutions.Win.Comm.Device,System.Collections.IList,System.String,System.Int32,AutomatedSolutions.Win.Comm.Result[]@)">
             <summary>
@@ -19887,12 +19962,17 @@
             
             </summary>
         </member>
-        <member name="M:AutomatedSolutions.Win.Comm.SI.S7.Protocol.COTP.CRConnectRequest(System.UInt16,System.UInt16)">
+        <member name="M:AutomatedSolutions.Win.Comm.SI.S7.Protocol.COTP.CRConnectRequest(System.UInt16,System.UInt16,System.Byte)">
             <summary>
             
             </summary>
             <param name="sourceTsap"></param>
             <param name="destTsap"></param>
+            <param name="tpduSize">
+            Base 2 exponent.
+             9 = 2^9  =  512 bytes
+            10 = 2^10 = 1024 bytes
+            </param>
             <returns></returns>
         </member>
         <member name="M:AutomatedSolutions.Win.Comm.SI.S7.Protocol.COTP.DTData">
@@ -19997,6 +20077,28 @@
             <param name="offset"></param>
             <param name="fillByteRequired"></param>
         </member>
+        <member name="T:AutomatedSolutions.Win.Comm.SI.S7.Protocol.Decode.TPKT">
+            <summary>
+            Describes a TPKT Packet
+            </summary>
+        </member>
+        <member name="M:AutomatedSolutions.Win.Comm.SI.S7.Protocol.Decode.TPKT.#ctor(System.Byte[])">
+            <summary>
+            Reads a TPKT from the socket
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="T:AutomatedSolutions.Win.Comm.SI.S7.Protocol.Decode.COTP">
+            <summary>
+            COTP Protocol functions and types
+            </summary>
+        </member>
+        <member name="T:AutomatedSolutions.Win.Comm.SI.S7.Protocol.Decode.COTP.TPDU">
+            <summary>
+            Describes a COTP TPDU (Transport protocol data unit)
+            </summary>
+        </member>
         <member name="T:AutomatedSolutions.Win.Comm.SI.S7.LinkType">
             <summary>
             LinkType enumeration
@@ -20042,7 +20144,7 @@
             
             </summary>
         </member>
-        <member name="F:AutomatedSolutions.Win.Comm.SI.S7.TcpSocket.S7OpenConnection">
+        <member name="F:AutomatedSolutions.Win.Comm.SI.S7.TcpSocket.S7SetupCommunication">
             <summary>
             
             </summary>
@@ -20064,7 +20166,7 @@
         </member>
         <member name="M:AutomatedSolutions.Win.Comm.SI.S7.TcpSocket.Connect(AutomatedSolutions.Win.Comm.SI.S7.Model,System.String,System.UInt16,System.UInt16,AutomatedSolutions.Win.Comm.SI.S7.LinkType,System.Int32)">
             <summary>
-            Use this overload for S7-300, S7-400, S7-1200
+            Use this overload for S7-300, S7-400, S7-1200, S7-1500
             Connect performs the following functions:
             1. TCP/IP connection
             2. COTP connection
@@ -20086,10 +20188,11 @@
             <param name="dstTSAP">Contains  link type, rack, and slot</param>
             <returns></returns>
         </member>
-        <member name="M:AutomatedSolutions.Win.Comm.SI.S7.TcpSocket.Connect(System.String,System.UInt16,System.UInt16,System.Int32)">
+        <member name="M:AutomatedSolutions.Win.Comm.SI.S7.TcpSocket.Connect(AutomatedSolutions.Win.Comm.SI.S7.Model,System.String,System.UInt16,System.UInt16,System.Int32)">
             <summary>
             
             </summary>
+            <param name="controllerModel"></param>
             <param name="ipAddress"></param>
             <param name="srcTSAP">
             TSAPs consist of two bytes. 
@@ -20738,6 +20841,9 @@
         </member>
         <member name="F:AutomatedSolutions.Win.Comm.ChannelEventArgs.ErrorCodes.INFO_SOCKET_CLOSED_BY_REMOTE_HOST">
             <summary>Connection reset by peer and driver is attempting to reconnect. An existing connection was forcibly closed by the remote host. This normally results if the peer application on the remote host is suddenly stopped, the host is rebooted, the host or remote network interface is disabled, or the remote host uses a hard close.</summary>
+        </member>
+        <member name="F:AutomatedSolutions.Win.Comm.ChannelEventArgs.ErrorCodes.S7COMM_PROTOCOL_ID_NOT_SUPPORTED">
+            <summary>S7 Protocol reported in response packet is not currently supported by the driver.</summary>
         </member>
         <member name="F:AutomatedSolutions.Win.Comm.ChannelEventArgs.category">
             <summary>
