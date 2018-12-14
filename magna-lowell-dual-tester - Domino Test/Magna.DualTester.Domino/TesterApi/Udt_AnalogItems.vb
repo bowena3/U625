@@ -19,8 +19,8 @@
         Public Camera_Amp As New Udt_AlgItem
         Public Gps_Amp As New Udt_AlgItem
         Public Ca_Amp As New Udt_AlgItem
-        Public Pol_Pat As New Udt_AlgItem
-        Public Pol_Sync As New Udt_AlgItem
+        Public Police_Wire As New Udt_AlgItem
+        ' Public Pol_Sync As New Udt_AlgItem
         Public Nest As Integer
     End Class
 

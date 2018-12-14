@@ -44,8 +44,8 @@ Namespace UI.Views.MainView
             Me.Label1 = New System.Windows.Forms.Label()
             Me.Label2 = New System.Windows.Forms.Label()
             Me.TableLayoutPanel1 = New System.Windows.Forms.TableLayoutPanel()
-            Me.PartNumberStatusNest1 = New Magna.DualTester.Domino.PartNumberStatus()
-            Me.PartNumberStatusNest2 = New Magna.DualTester.Domino.PartNumberStatus()
+            Me.PartNumberStatusNest1 = New Magna.DualTester.Domino.PartNumberStatus
+            Me.PartNumberStatusNest2 = New Magna.DualTester.Domino.PartNumberStatus
             Me.Label3 = New System.Windows.Forms.Label()
             Me.Label4 = New System.Windows.Forms.Label()
             'Me.Nest1DataControl = New Magna.DualTester.Domino.UI.Views.MainView.SubViews.NestDataControl()

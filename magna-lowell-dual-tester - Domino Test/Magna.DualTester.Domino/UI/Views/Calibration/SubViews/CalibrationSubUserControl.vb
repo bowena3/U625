@@ -277,7 +277,7 @@ Namespace UI.Views.Calibration.SubViews
                         'LblBziRaw.Text = .Bzi_Amp.AnalogInDint.ToString()
                         ' LblPullValue.Text = .GlassPull.Value.ToString() + " mm"
                         ' LblPullRaw.Text = .GlassPull.AnalogInDint.ToString()
-                        LblVmemValue.Text = .Vert_Mem.Value.ToString() + " V"
+                        LblVmemValue1.Text = .Vert_Mem.Value.ToString() + " V"
                         LblHmemValue.Text = .Horz_Mem.Value.ToString() + " V"
 
                         'BtnMirrorAngle.Enabled = _isAdminOrBetter ' compair(alg.HorzAngle.AnalogInDint, alg.HorzAngle.MinRawCalDeflect)
@@ -313,13 +313,6 @@ Namespace UI.Views.Calibration.SubViews
             End Try
         End Sub
 
-        Private Sub MirrorTraining_Load(sender As Object, e As EventArgs) Handles MirrorTraining.Load
-
-        End Sub
-
-        Private Sub TableLayoutPanel1_Paint(sender As Object, e As PaintEventArgs) Handles TableLayoutPanel1.Paint
-
-        End Sub
     End Class
 End Namespace
 

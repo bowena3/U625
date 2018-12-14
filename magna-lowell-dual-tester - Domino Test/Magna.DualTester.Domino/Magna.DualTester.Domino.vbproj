@@ -27,8 +27,8 @@
     <MapFileExtensions>true</MapFileExtensions>
     <UpdateUrl>\\malmsapp10\prod\Source Code\NEWU625RHDomino\</UpdateUrl>
     <MinimumRequiredVersion>1.0.0.2</MinimumRequiredVersion>
-    <ApplicationRevision>2</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.8.6.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -92,7 +92,7 @@
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Ninject.Extensions.Logging, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
-      <HintPath>..\..\..\Documents\Visual Studio 2017\Ninject.Extensions.Logging-3.0.1.0-release-silverlight-3.0\Ninject.Extensions.Logging.dll</HintPath>
+      <HintPath>..\..\..\..\..\Documents\Visual Studio 2017\Ninject.Extensions.Logging-3.0.1.0-release-silverlight-5.0 (1)\Ninject.Extensions.Logging.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">

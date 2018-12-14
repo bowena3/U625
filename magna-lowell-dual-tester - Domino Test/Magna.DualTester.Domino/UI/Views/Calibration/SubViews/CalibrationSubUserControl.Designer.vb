@@ -29,6 +29,9 @@ Namespace UI.Views.Calibration.SubViews
             Me.Label22 = New System.Windows.Forms.Label()
             Me.Panel1 = New System.Windows.Forms.Panel()
             Me.TableLayoutPanel1 = New System.Windows.Forms.TableLayoutPanel()
+            Me.LblVMem = New System.Windows.Forms.Label()
+            Me.Label7 = New System.Windows.Forms.Label()
+            Me.LblVmemValue = New System.Windows.Forms.Label()
             Me.TableLayoutPanel9 = New System.Windows.Forms.TableLayoutPanel()
             Me.BtnPFold = New System.Windows.Forms.Button()
             Me.ChkPfoldPower = New System.Windows.Forms.CheckBox()
@@ -77,8 +80,8 @@ Namespace UI.Views.Calibration.SubViews
             Me.BtnOats = New System.Windows.Forms.Button()
             Me.LblOatsValue = New System.Windows.Forms.Label()
             Me.LblOatsRaw = New System.Windows.Forms.Label()
-            Me.LblMem = New System.Windows.Forms.Label()
-            Me.LblVmemValue = New System.Windows.Forms.Label()
+            Me.LblHMem = New System.Windows.Forms.Label()
+            Me.LblVmemValue1 = New System.Windows.Forms.Label()
             Me.LblHmemValue = New System.Windows.Forms.Label()
             Me.Panel2 = New System.Windows.Forms.Panel()
             Me.MirrorTraining = New Magna.DualTester.Domino.Uc_Coordinate()
@@ -143,50 +146,53 @@ Namespace UI.Views.Calibration.SubViews
             Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33332!))
             Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33334!))
             Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33334!))
-            Me.TableLayoutPanel1.Controls.Add(Me.TableLayoutPanel9, 2, 7)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblVMem, 2, 5)
+            Me.TableLayoutPanel1.Controls.Add(Me.Label7, 0, 5)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblVmemValue, 0, 5)
+            Me.TableLayoutPanel1.Controls.Add(Me.TableLayoutPanel9, 2, 8)
             Me.TableLayoutPanel1.Controls.Add(Me.Label1, 0, 0)
             Me.TableLayoutPanel1.Controls.Add(Me.Label2, 1, 0)
             Me.TableLayoutPanel1.Controls.Add(Me.Label3, 2, 0)
             Me.TableLayoutPanel1.Controls.Add(Me.LblHorzValue, 0, 2)
             Me.TableLayoutPanel1.Controls.Add(Me.LblHorzRaw, 1, 2)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblHeaterValue, 0, 4)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblHeaterRaw, 1, 4)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblTurnSigValue, 0, 5)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblTurnSigRaw, 1, 5)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblPfoldValue, 0, 7)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblPfoldRaw, 1, 7)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblHeaterValue, 0, 6)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblHeaterRaw, 1, 6)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblTurnSigValue, 0, 7)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblTurnSigRaw, 1, 7)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblPfoldValue, 0, 8)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblPfoldRaw, 1, 8)
             Me.TableLayoutPanel1.Controls.Add(Me.TableLayoutPanel2, 0, 1)
             Me.TableLayoutPanel1.Controls.Add(Me.TableLayoutPanel3, 1, 1)
-            Me.TableLayoutPanel1.Controls.Add(Me.BtnHeater, 2, 4)
-            Me.TableLayoutPanel1.Controls.Add(Me.BtnTurnSig, 2, 5)
+            Me.TableLayoutPanel1.Controls.Add(Me.BtnHeater, 2, 6)
+            Me.TableLayoutPanel1.Controls.Add(Me.BtnTurnSig, 2, 7)
             Me.TableLayoutPanel1.Controls.Add(Me.LblVertValue, 0, 3)
             Me.TableLayoutPanel1.Controls.Add(Me.LblVertRaw, 1, 3)
             Me.TableLayoutPanel1.Controls.Add(Me.TableLayoutPanel7, 2, 2)
             Me.TableLayoutPanel1.Controls.Add(Me.TableLayoutPanel8, 2, 3)
             Me.TableLayoutPanel1.Controls.Add(Me.TableLayoutPanel4, 2, 1)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblEcValue, 0, 8)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblEcRaw, 1, 8)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblGiValue, 0, 9)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblGiRaw, 1, 9)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblBziVal, 0, 6)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblBziRaw, 1, 6)
-            Me.TableLayoutPanel1.Controls.Add(Me.BtnBzi, 2, 6)
-            Me.TableLayoutPanel1.Controls.Add(Me.BtnEc, 2, 8)
-            Me.TableLayoutPanel1.Controls.Add(Me.BtnGi, 2, 9)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblCargoLampValue, 0, 12)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblCargoLampRaw, 1, 12)
-            Me.TableLayoutPanel1.Controls.Add(Me.BtnCargoLamp, 2, 12)
-            Me.TableLayoutPanel1.Controls.Add(Me.BtnOats, 2, 11)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblOatsValue, 0, 11)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblOatsRaw, 1, 11)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblMem, 2, 10)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblVmemValue, 0, 10)
-            Me.TableLayoutPanel1.Controls.Add(Me.LblHmemValue, 1, 10)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblEcValue, 0, 10)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblEcRaw, 1, 10)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblGiValue, 0, 11)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblGiRaw, 1, 11)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblBziVal, 0, 9)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblBziRaw, 1, 9)
+            Me.TableLayoutPanel1.Controls.Add(Me.BtnBzi, 2, 9)
+            Me.TableLayoutPanel1.Controls.Add(Me.BtnEc, 2, 10)
+            Me.TableLayoutPanel1.Controls.Add(Me.BtnGi, 2, 11)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblCargoLampValue, 0, 13)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblCargoLampRaw, 1, 13)
+            Me.TableLayoutPanel1.Controls.Add(Me.BtnCargoLamp, 2, 13)
+            Me.TableLayoutPanel1.Controls.Add(Me.BtnOats, 2, 12)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblOatsValue, 0, 12)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblOatsRaw, 1, 12)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblHMem, 2, 4)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblVmemValue1, 0, 4)
+            Me.TableLayoutPanel1.Controls.Add(Me.LblHmemValue, 1, 4)
             Me.TableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill
             Me.TableLayoutPanel1.Location = New System.Drawing.Point(0, 0)
             Me.TableLayoutPanel1.Margin = New System.Windows.Forms.Padding(0)
             Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
-            Me.TableLayoutPanel1.RowCount = 13
+            Me.TableLayoutPanel1.RowCount = 14
             Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle())
             Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle())
             Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
@@ -199,10 +205,56 @@ Namespace UI.Views.Calibration.SubViews
             Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
             Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
             Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
-            Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle())
-            Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20.0!))
+            Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
             Me.TableLayoutPanel1.Size = New System.Drawing.Size(377, 385)
             Me.TableLayoutPanel1.TabIndex = 0
+            '
+            'LblVMem
+            '
+            Me.LblVMem.AutoSize = True
+            Me.LblVMem.Dock = System.Windows.Forms.DockStyle.Fill
+            Me.LblVMem.Location = New System.Drawing.Point(253, 163)
+            Me.LblVMem.Margin = New System.Windows.Forms.Padding(3)
+            Me.LblVMem.Name = "LblVMem"
+            Me.LblVMem.Size = New System.Drawing.Size(121, 22)
+            Me.LblVMem.TabIndex = 56
+            Me.LblVMem.Text = "Vertical Mem"
+            Me.LblVMem.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+            '
+            'Label7
+            '
+            Me.Label7.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Me.Label7.AutoSize = True
+            Me.Label7.BackColor = System.Drawing.Color.Black
+            Me.Label7.ForeColor = System.Drawing.Color.White
+            Me.Label7.Location = New System.Drawing.Point(3, 163)
+            Me.Label7.Margin = New System.Windows.Forms.Padding(3)
+            Me.Label7.Name = "Label7"
+            Me.Label7.Size = New System.Drawing.Size(119, 22)
+            Me.Label7.TabIndex = 55
+            Me.Label7.Text = "0.000 V"
+            Me.Label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+            Me.Label7.Visible = False
+            '
+            'LblVmemValue
+            '
+            Me.LblVmemValue.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Me.LblVmemValue.AutoSize = True
+            Me.LblVmemValue.BackColor = System.Drawing.Color.Black
+            Me.LblVmemValue.ForeColor = System.Drawing.Color.White
+            Me.LblVmemValue.Location = New System.Drawing.Point(128, 163)
+            Me.LblVmemValue.Margin = New System.Windows.Forms.Padding(3)
+            Me.LblVmemValue.Name = "LblVmemValue"
+            Me.LblVmemValue.Size = New System.Drawing.Size(119, 22)
+            Me.LblVmemValue.TabIndex = 54
+            Me.LblVmemValue.Text = "0.000 V"
+            Me.LblVmemValue.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
             '
             'TableLayoutPanel9
             '
@@ -212,11 +264,19 @@ Namespace UI.Views.Calibration.SubViews
             Me.TableLayoutPanel9.Controls.Add(Me.BtnPFold, 0, 0)
             Me.TableLayoutPanel9.Controls.Add(Me.ChkPfoldPower, 1, 0)
             Me.TableLayoutPanel9.Dock = System.Windows.Forms.DockStyle.Fill
-            Me.TableLayoutPanel9.Location = New System.Drawing.Point(250, 216)
+            Me.TableLayoutPanel9.Location = New System.Drawing.Point(250, 244)
             Me.TableLayoutPanel9.Margin = New System.Windows.Forms.Padding(0)
             Me.TableLayoutPanel9.Name = "TableLayoutPanel9"
             Me.TableLayoutPanel9.RowCount = 1
             Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
+            Me.TableLayoutPanel9.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 28.0!))
             Me.TableLayoutPanel9.Size = New System.Drawing.Size(127, 28)
             Me.TableLayoutPanel9.TabIndex = 6
             '
@@ -313,7 +373,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblHeaterValue.BackColor = System.Drawing.Color.Black
             Me.LblHeaterValue.Dock = System.Windows.Forms.DockStyle.Fill
             Me.LblHeaterValue.ForeColor = System.Drawing.Color.White
-            Me.LblHeaterValue.Location = New System.Drawing.Point(3, 135)
+            Me.LblHeaterValue.Location = New System.Drawing.Point(3, 191)
             Me.LblHeaterValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblHeaterValue.Name = "LblHeaterValue"
             Me.LblHeaterValue.Size = New System.Drawing.Size(119, 22)
@@ -327,7 +387,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblHeaterRaw.BackColor = System.Drawing.Color.Black
             Me.LblHeaterRaw.Dock = System.Windows.Forms.DockStyle.Fill
             Me.LblHeaterRaw.ForeColor = System.Drawing.Color.White
-            Me.LblHeaterRaw.Location = New System.Drawing.Point(128, 135)
+            Me.LblHeaterRaw.Location = New System.Drawing.Point(128, 191)
             Me.LblHeaterRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblHeaterRaw.Name = "LblHeaterRaw"
             Me.LblHeaterRaw.Size = New System.Drawing.Size(119, 22)
@@ -341,7 +401,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblTurnSigValue.BackColor = System.Drawing.Color.Black
             Me.LblTurnSigValue.Dock = System.Windows.Forms.DockStyle.Fill
             Me.LblTurnSigValue.ForeColor = System.Drawing.Color.White
-            Me.LblTurnSigValue.Location = New System.Drawing.Point(3, 163)
+            Me.LblTurnSigValue.Location = New System.Drawing.Point(3, 219)
             Me.LblTurnSigValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblTurnSigValue.Name = "LblTurnSigValue"
             Me.LblTurnSigValue.Size = New System.Drawing.Size(119, 22)
@@ -355,7 +415,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblTurnSigRaw.BackColor = System.Drawing.Color.Black
             Me.LblTurnSigRaw.Dock = System.Windows.Forms.DockStyle.Fill
             Me.LblTurnSigRaw.ForeColor = System.Drawing.Color.White
-            Me.LblTurnSigRaw.Location = New System.Drawing.Point(128, 163)
+            Me.LblTurnSigRaw.Location = New System.Drawing.Point(128, 219)
             Me.LblTurnSigRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblTurnSigRaw.Name = "LblTurnSigRaw"
             Me.LblTurnSigRaw.Size = New System.Drawing.Size(119, 22)
@@ -369,7 +429,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblPfoldValue.BackColor = System.Drawing.Color.Black
             Me.LblPfoldValue.Dock = System.Windows.Forms.DockStyle.Fill
             Me.LblPfoldValue.ForeColor = System.Drawing.Color.White
-            Me.LblPfoldValue.Location = New System.Drawing.Point(3, 219)
+            Me.LblPfoldValue.Location = New System.Drawing.Point(3, 247)
             Me.LblPfoldValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblPfoldValue.Name = "LblPfoldValue"
             Me.LblPfoldValue.Size = New System.Drawing.Size(119, 22)
@@ -383,7 +443,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblPfoldRaw.BackColor = System.Drawing.Color.Black
             Me.LblPfoldRaw.Dock = System.Windows.Forms.DockStyle.Fill
             Me.LblPfoldRaw.ForeColor = System.Drawing.Color.White
-            Me.LblPfoldRaw.Location = New System.Drawing.Point(128, 219)
+            Me.LblPfoldRaw.Location = New System.Drawing.Point(128, 247)
             Me.LblPfoldRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblPfoldRaw.Name = "LblPfoldRaw"
             Me.LblPfoldRaw.Size = New System.Drawing.Size(119, 22)
@@ -488,7 +548,7 @@ Namespace UI.Views.Calibration.SubViews
             'BtnHeater
             '
             Me.BtnHeater.Dock = System.Windows.Forms.DockStyle.Fill
-            Me.BtnHeater.Location = New System.Drawing.Point(253, 135)
+            Me.BtnHeater.Location = New System.Drawing.Point(253, 191)
             Me.BtnHeater.Name = "BtnHeater"
             Me.BtnHeater.Size = New System.Drawing.Size(121, 22)
             Me.BtnHeater.TabIndex = 3
@@ -498,7 +558,7 @@ Namespace UI.Views.Calibration.SubViews
             'BtnTurnSig
             '
             Me.BtnTurnSig.Dock = System.Windows.Forms.DockStyle.Fill
-            Me.BtnTurnSig.Location = New System.Drawing.Point(253, 163)
+            Me.BtnTurnSig.Location = New System.Drawing.Point(253, 219)
             Me.BtnTurnSig.Name = "BtnTurnSig"
             Me.BtnTurnSig.Size = New System.Drawing.Size(121, 22)
             Me.BtnTurnSig.TabIndex = 4
@@ -659,7 +719,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblEcValue.AutoSize = True
             Me.LblEcValue.BackColor = System.Drawing.Color.Black
             Me.LblEcValue.ForeColor = System.Drawing.Color.White
-            Me.LblEcValue.Location = New System.Drawing.Point(3, 247)
+            Me.LblEcValue.Location = New System.Drawing.Point(3, 303)
             Me.LblEcValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblEcValue.Name = "LblEcValue"
             Me.LblEcValue.Size = New System.Drawing.Size(119, 22)
@@ -675,7 +735,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblEcRaw.AutoSize = True
             Me.LblEcRaw.BackColor = System.Drawing.Color.Black
             Me.LblEcRaw.ForeColor = System.Drawing.Color.White
-            Me.LblEcRaw.Location = New System.Drawing.Point(128, 247)
+            Me.LblEcRaw.Location = New System.Drawing.Point(128, 303)
             Me.LblEcRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblEcRaw.Name = "LblEcRaw"
             Me.LblEcRaw.Size = New System.Drawing.Size(119, 22)
@@ -691,7 +751,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblGiValue.AutoSize = True
             Me.LblGiValue.BackColor = System.Drawing.Color.Black
             Me.LblGiValue.ForeColor = System.Drawing.Color.White
-            Me.LblGiValue.Location = New System.Drawing.Point(3, 275)
+            Me.LblGiValue.Location = New System.Drawing.Point(3, 331)
             Me.LblGiValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblGiValue.Name = "LblGiValue"
             Me.LblGiValue.Size = New System.Drawing.Size(119, 22)
@@ -707,7 +767,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblGiRaw.AutoSize = True
             Me.LblGiRaw.BackColor = System.Drawing.Color.Black
             Me.LblGiRaw.ForeColor = System.Drawing.Color.White
-            Me.LblGiRaw.Location = New System.Drawing.Point(128, 275)
+            Me.LblGiRaw.Location = New System.Drawing.Point(128, 331)
             Me.LblGiRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblGiRaw.Name = "LblGiRaw"
             Me.LblGiRaw.Size = New System.Drawing.Size(119, 22)
@@ -723,7 +783,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblBziVal.AutoSize = True
             Me.LblBziVal.BackColor = System.Drawing.Color.Black
             Me.LblBziVal.ForeColor = System.Drawing.Color.White
-            Me.LblBziVal.Location = New System.Drawing.Point(3, 191)
+            Me.LblBziVal.Location = New System.Drawing.Point(3, 275)
             Me.LblBziVal.Margin = New System.Windows.Forms.Padding(3)
             Me.LblBziVal.Name = "LblBziVal"
             Me.LblBziVal.Size = New System.Drawing.Size(119, 22)
@@ -739,7 +799,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblBziRaw.AutoSize = True
             Me.LblBziRaw.BackColor = System.Drawing.Color.Black
             Me.LblBziRaw.ForeColor = System.Drawing.Color.White
-            Me.LblBziRaw.Location = New System.Drawing.Point(128, 191)
+            Me.LblBziRaw.Location = New System.Drawing.Point(128, 275)
             Me.LblBziRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblBziRaw.Name = "LblBziRaw"
             Me.LblBziRaw.Size = New System.Drawing.Size(119, 22)
@@ -752,7 +812,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.BtnBzi.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-            Me.BtnBzi.Location = New System.Drawing.Point(253, 191)
+            Me.BtnBzi.Location = New System.Drawing.Point(253, 275)
             Me.BtnBzi.Name = "BtnBzi"
             Me.BtnBzi.Size = New System.Drawing.Size(121, 22)
             Me.BtnBzi.TabIndex = 42
@@ -764,7 +824,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.BtnEc.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-            Me.BtnEc.Location = New System.Drawing.Point(253, 247)
+            Me.BtnEc.Location = New System.Drawing.Point(253, 303)
             Me.BtnEc.Name = "BtnEc"
             Me.BtnEc.Size = New System.Drawing.Size(121, 22)
             Me.BtnEc.TabIndex = 43
@@ -776,7 +836,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.BtnGi.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-            Me.BtnGi.Location = New System.Drawing.Point(253, 275)
+            Me.BtnGi.Location = New System.Drawing.Point(253, 331)
             Me.BtnGi.Name = "BtnGi"
             Me.BtnGi.Size = New System.Drawing.Size(121, 22)
             Me.BtnGi.TabIndex = 44
@@ -791,10 +851,10 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblCargoLampValue.AutoSize = True
             Me.LblCargoLampValue.BackColor = System.Drawing.Color.Black
             Me.LblCargoLampValue.ForeColor = System.Drawing.Color.White
-            Me.LblCargoLampValue.Location = New System.Drawing.Point(3, 359)
+            Me.LblCargoLampValue.Location = New System.Drawing.Point(3, 387)
             Me.LblCargoLampValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblCargoLampValue.Name = "LblCargoLampValue"
-            Me.LblCargoLampValue.Size = New System.Drawing.Size(119, 23)
+            Me.LblCargoLampValue.Size = New System.Drawing.Size(119, 22)
             Me.LblCargoLampValue.TabIndex = 45
             Me.LblCargoLampValue.Text = "0.000 A"
             Me.LblCargoLampValue.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -808,10 +868,10 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblCargoLampRaw.AutoSize = True
             Me.LblCargoLampRaw.BackColor = System.Drawing.Color.Black
             Me.LblCargoLampRaw.ForeColor = System.Drawing.Color.White
-            Me.LblCargoLampRaw.Location = New System.Drawing.Point(128, 359)
+            Me.LblCargoLampRaw.Location = New System.Drawing.Point(128, 387)
             Me.LblCargoLampRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblCargoLampRaw.Name = "LblCargoLampRaw"
-            Me.LblCargoLampRaw.Size = New System.Drawing.Size(119, 23)
+            Me.LblCargoLampRaw.Size = New System.Drawing.Size(119, 22)
             Me.LblCargoLampRaw.TabIndex = 47
             Me.LblCargoLampRaw.Text = "0"
             Me.LblCargoLampRaw.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -822,9 +882,9 @@ Namespace UI.Views.Calibration.SubViews
             Me.BtnCargoLamp.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-            Me.BtnCargoLamp.Location = New System.Drawing.Point(253, 359)
+            Me.BtnCargoLamp.Location = New System.Drawing.Point(253, 387)
             Me.BtnCargoLamp.Name = "BtnCargoLamp"
-            Me.BtnCargoLamp.Size = New System.Drawing.Size(121, 23)
+            Me.BtnCargoLamp.Size = New System.Drawing.Size(121, 22)
             Me.BtnCargoLamp.TabIndex = 49
             Me.BtnCargoLamp.Text = "Cargo Lamp"
             Me.BtnCargoLamp.UseVisualStyleBackColor = True
@@ -835,7 +895,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.BtnOats.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-            Me.BtnOats.Location = New System.Drawing.Point(253, 331)
+            Me.BtnOats.Location = New System.Drawing.Point(253, 359)
             Me.BtnOats.Name = "BtnOats"
             Me.BtnOats.Size = New System.Drawing.Size(121, 22)
             Me.BtnOats.TabIndex = 50
@@ -851,7 +911,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblOatsValue.AutoSize = True
             Me.LblOatsValue.BackColor = System.Drawing.Color.Black
             Me.LblOatsValue.ForeColor = System.Drawing.Color.White
-            Me.LblOatsValue.Location = New System.Drawing.Point(3, 331)
+            Me.LblOatsValue.Location = New System.Drawing.Point(3, 359)
             Me.LblOatsValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblOatsValue.Name = "LblOatsValue"
             Me.LblOatsValue.Size = New System.Drawing.Size(119, 22)
@@ -868,7 +928,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblOatsRaw.AutoSize = True
             Me.LblOatsRaw.BackColor = System.Drawing.Color.Black
             Me.LblOatsRaw.ForeColor = System.Drawing.Color.White
-            Me.LblOatsRaw.Location = New System.Drawing.Point(128, 331)
+            Me.LblOatsRaw.Location = New System.Drawing.Point(128, 359)
             Me.LblOatsRaw.Margin = New System.Windows.Forms.Padding(3)
             Me.LblOatsRaw.Name = "LblOatsRaw"
             Me.LblOatsRaw.Size = New System.Drawing.Size(119, 22)
@@ -877,33 +937,34 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblOatsRaw.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
             Me.LblOatsRaw.Visible = False
             '
-            'LblMem
+            'LblHMem
             '
-            Me.LblMem.AutoSize = True
-            Me.LblMem.Dock = System.Windows.Forms.DockStyle.Fill
-            Me.LblMem.Location = New System.Drawing.Point(253, 303)
-            Me.LblMem.Margin = New System.Windows.Forms.Padding(3)
-            Me.LblMem.Name = "LblMem"
-            Me.LblMem.Size = New System.Drawing.Size(121, 22)
-            Me.LblMem.TabIndex = 53
-            Me.LblMem.Text = "Vert   |   Horz Mem"
-            Me.LblMem.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+            Me.LblHMem.AutoSize = True
+            Me.LblHMem.Dock = System.Windows.Forms.DockStyle.Fill
+            Me.LblHMem.Location = New System.Drawing.Point(253, 135)
+            Me.LblHMem.Margin = New System.Windows.Forms.Padding(3)
+            Me.LblHMem.Name = "LblHMem"
+            Me.LblHMem.Size = New System.Drawing.Size(121, 22)
+            Me.LblHMem.TabIndex = 53
+            Me.LblHMem.Text = " Horz Mem"
+            Me.LblHMem.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
             '
-            'LblVmemValue
+            'LblVmemValue1
             '
-            Me.LblVmemValue.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Me.LblVmemValue1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-            Me.LblVmemValue.AutoSize = True
-            Me.LblVmemValue.BackColor = System.Drawing.Color.Black
-            Me.LblVmemValue.ForeColor = System.Drawing.Color.White
-            Me.LblVmemValue.Location = New System.Drawing.Point(3, 303)
-            Me.LblVmemValue.Margin = New System.Windows.Forms.Padding(3)
-            Me.LblVmemValue.Name = "LblVmemValue"
-            Me.LblVmemValue.Size = New System.Drawing.Size(119, 22)
-            Me.LblVmemValue.TabIndex = 52
-            Me.LblVmemValue.Text = "0.000 V"
-            Me.LblVmemValue.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+            Me.LblVmemValue1.AutoSize = True
+            Me.LblVmemValue1.BackColor = System.Drawing.Color.Black
+            Me.LblVmemValue1.ForeColor = System.Drawing.Color.White
+            Me.LblVmemValue1.Location = New System.Drawing.Point(3, 135)
+            Me.LblVmemValue1.Margin = New System.Windows.Forms.Padding(3)
+            Me.LblVmemValue1.Name = "LblVmemValue1"
+            Me.LblVmemValue1.Size = New System.Drawing.Size(119, 22)
+            Me.LblVmemValue1.TabIndex = 52
+            Me.LblVmemValue1.Text = "0.000 V"
+            Me.LblVmemValue1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+            Me.LblVmemValue1.Visible = False
             '
             'LblHmemValue
             '
@@ -913,7 +974,7 @@ Namespace UI.Views.Calibration.SubViews
             Me.LblHmemValue.AutoSize = True
             Me.LblHmemValue.BackColor = System.Drawing.Color.Black
             Me.LblHmemValue.ForeColor = System.Drawing.Color.White
-            Me.LblHmemValue.Location = New System.Drawing.Point(128, 303)
+            Me.LblHmemValue.Location = New System.Drawing.Point(128, 135)
             Me.LblHmemValue.Margin = New System.Windows.Forms.Padding(3)
             Me.LblHmemValue.Name = "LblHmemValue"
             Me.LblHmemValue.Size = New System.Drawing.Size(119, 22)
@@ -991,7 +1052,6 @@ Namespace UI.Views.Calibration.SubViews
         Friend WithEvents TableLayoutPanel2 As TableLayoutPanel
         Friend WithEvents LblMirrorAngleHorizValue As Label
         Friend WithEvents LblMirrorAngleVertValue As Label
-        Friend WithEvents TableLayoutPanel3 As TableLayoutPanel
         Friend WithEvents BtnHeater As Button
         Friend WithEvents BtnTurnSig As Button
         Friend WithEvents LblVertValue As Label
@@ -1007,8 +1067,6 @@ Namespace UI.Views.Calibration.SubViews
         Friend WithEvents Label5 As Label
         Friend WithEvents Label22 As Label
         Friend WithEvents MirrorTraining As Uc_Coordinate
-        Private WithEvents LblMirrorAngleVertRaw As Label
-        Private WithEvents LblMirrorAngleHorizRaw As Label
         Friend WithEvents LblEcValue As Label
         Friend WithEvents LblEcRaw As Label
         Friend WithEvents LblGiValue As Label
@@ -1027,7 +1085,13 @@ Namespace UI.Views.Calibration.SubViews
         Friend WithEvents Panel1 As Panel
         Friend WithEvents Panel2 As Panel
         Friend WithEvents LblHmemValue As Label
-        Private WithEvents LblMem As Label
+        Private WithEvents LblHMem As Label
+        Friend WithEvents LblVmemValue1 As Label
+        Friend WithEvents TableLayoutPanel3 As TableLayoutPanel
+        Private WithEvents LblMirrorAngleVertRaw As Label
+        Private WithEvents LblMirrorAngleHorizRaw As Label
+        Private WithEvents LblVMem As Label
+        Friend WithEvents Label7 As Label
         Friend WithEvents LblVmemValue As Label
     End Class
 End Namespace

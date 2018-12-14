@@ -10,6 +10,7 @@ Namespace TesterApi
 
         Public Nest As Integer
         Public ClockNumber As New PlcString_82
+        Public Cur_Cycle As New Udt_LogItem
         Public MirrorUpTravel As New Udt_LogItem
         Public MirrorUpRate As New Udt_LogItem
         Public MirrorUpAmp As New Udt_LogItem
@@ -38,14 +39,16 @@ Namespace TesterApi
         Public Pf_Trav_Time As New Udt_LogItem
         Public PowerExt_Amp As New Udt_LogItem
         Public PowerExt_Trav_Time As New Udt_LogItem
+        Public Prev_Cycle As New Udt_LogItem
         Public Oats_Amp As New Udt_LogItem
         Public CargoLamp_Amp As New Udt_LogItem
         Public Camera_Amp As New Udt_LogItem
-        Public Gps_Amp As New Udt_LogItem
-        Public Ca_Amp As New Udt_LogItem
-        Public Pol_pat As New Udt_LogItem
-        Public Pol_sync As New Udt_LogItem
+        Public Police_Wire As New Udt_LogItem
+        'Public Pol_Sync As New Udt_LogItem
 
+
+        'Public Gps_Amp As New Udt_LogItem
+        'Public Ca_Amp As New Udt_LogItem
         ''' <summary>
         '''  3 = part errors /
         '''  2 = part passed /

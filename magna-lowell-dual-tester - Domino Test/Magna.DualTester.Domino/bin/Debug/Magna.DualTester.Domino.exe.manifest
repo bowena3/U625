@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Magna.DualTester.Domino.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Magna.DualTester.Domino.exe" version="1.8.6.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Magna.DualTester.Domino" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,11 +42,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
-      <assemblyIdentity name="Ninject" version="3.2.0.0" publicKeyToken="C7192DC5380945E7" language="neutral" processorArchitecture="msil" />
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AutomatedSolutions.ASComm.dll" size="1028096">
       <assemblyIdentity name="AutomatedSolutions.ASComm" version="3.9.0.0" publicKeyToken="67272FE3F372DED3" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -59,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlexCell.dll" size="883712">
-      <assemblyIdentity name="FlexCell" version="4.3.2.0" publicKeyToken="6F86587EB70EE309" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlexCell.dll" size="1291264">
+      <assemblyIdentity name="FlexCell" version="4.4.1.0" publicKeyToken="6F86587EB70EE309" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VtcxBg9X7Ah/n8GukxFNC4GGIl96Ui0WcLd62bVyl/k=</dsig:DigestValue>
+        <dsig:DigestValue>0hQbJIqk9JiEYBvjkQl5iSASPVYUcPliW+Yd25X+/Bc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,19 +73,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>U/gY03lx9wJLdh7m2PpRcdY04dkQDt2xM9eZc60yLP4=</dsig:DigestValue>
+        <dsig:DigestValue>p4oKwqyYsf4OgmkT98YsuwoPXLrDsNjVz9vKQMgmdY8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magna.DualTester.Domino.exe" size="401320">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magna.DualTester.Domino.exe" size="403368">
       <assemblyIdentity name="Magna.DualTester.Domino" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>23auF20pnipZ0ZjimR02FPEgL7+IEBkHjl205Fm9hxI=</dsig:DigestValue>
+        <dsig:DigestValue>RQbSf9Muk7mQR4j6RAdbTBuxaDyfpYZ5TOTYezo4Y7c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -102,7 +97,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TZwz/iTUEGCBDUFpgQQiUv17XbREMVx2dvYcKLk9dVU=</dsig:DigestValue>
+        <dsig:DigestValue>4MU5rVnQtRgmJtY/KiBmWnwZr2PchnheUsUSeIrUVoQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ninject.dll" size="136704">
+      <assemblyIdentity name="Ninject" version="3.2.0.0" publicKeyToken="C7192DC5380945E7" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>1t1XOfwaAvfMKEuJV9dBKADe0lXyxbWnNvOidCwEbeY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ninject.Extensions.Logging.dll" size="8704">
+      <assemblyIdentity name="Ninject.Extensions.Logging" version="3.0.0.0" publicKeyToken="C7192DC5380945E7" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zuWrQ1xknuzQ/dOosiY/xQLq9B/DGzMY/rJM6q2bERA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -118,13 +137,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Magna.DualTester.Domino.exe.config" size="182">
+  <file name="Magna.DualTester.Domino.exe.config" size="520">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>51Xf7gigYF4mTTk+5c99+DuIY9tk+dyJ/RZ2a48NBGE=</dsig:DigestValue>
+      <dsig:DigestValue>xY+PUJ9SPY+goOySGv2Kj8aAMHgAUBQT90FeGSwBQso=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\ARWDWN.ICO" size="1078">

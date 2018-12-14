@@ -24,8 +24,8 @@ Namespace TesterApi
         Public RHD As Boolean
         Public ShipWithPFIn As Boolean
         Public PartsPerHourPerPerson As Single
+        Public DominoPartLoaded As Integer
 
-        ' Public DominoPartLoaded As Integer
         'renamed PartOptions
         'Public PartOptions As New Udt_PartOptions
         'Added GlassOptions

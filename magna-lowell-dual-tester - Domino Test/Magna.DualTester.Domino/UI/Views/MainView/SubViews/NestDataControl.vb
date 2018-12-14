@@ -88,8 +88,8 @@ Namespace UI.Views.MainView.SubViews
             'Dim CargoLamp_Amp = fieldinfos.Single(Function(x) x.Name.Contains("CargoLamp_Amp"))
             'Dim PowerExt_Amp = fieldinfos.Single(Function(x) x.Name.Contains("PowerExt_Amp"))
             'Dim PowerExt_Trav_Time = fieldinfos.Single(Function(x) x.Name.Contains("PowerExt_Trav_Time"))
-            Dim Police_Sync = fieldinfos.Single(Function(x) x.Name.Contains("Pol_sync"))
-            Dim Police_Pat = fieldinfos.Single(Function(x) x.Name.Contains("Pol_pat"))
+            Dim Pol_Pat = fieldinfos.Single(Function(x) x.Name.Equals("Pol_Pat"))
+            Dim Pol_Sync = fieldinfos.Single(Function(x) x.Name.Equals("Pol_Sync"))
             CellMaps.Add(defog.Name, New LogItemCellMap("Defog", defog, UnitType.Amps, GridOptionsTesting.Cell(1, 2)))
             CellMaps.Add(Ts_Amp.Name, New LogItemCellMap("Turn Signal", Ts_Amp, UnitType.Amps, GridOptionsTesting.Cell(2, 2)))
             CellMaps.Add(Gi_Amp.Name, New LogItemCellMap("GI", Gi_Amp, UnitType.Amps, GridOptionsTesting.Cell(3, 2)))
@@ -98,8 +98,8 @@ Namespace UI.Views.MainView.SubViews
             CellMaps.Add(EC_Amp.Name, New LogItemCellMap("EC", EC_Amp, UnitType.Amps, GridOptionsTesting.Cell(2, 6)))
             CellMaps.Add(Pf_Amp.Name, New LogItemCellMap("Power Fold", Pf_Amp, UnitType.Amps, GridOptionsTesting.Cell(3, 6)))
             CellMaps.Add(Pf_Trav_Time.Name, New LogItemCellMap("Power Fold", Pf_Trav_Time, UnitType.Seconds, GridOptionsTesting.Cell(4, 6)))
-            CellMaps.Add(Police_Pat.Name, New LogItemCellMap("Pol Pat", Police_Pat, UnitType.Amps, GridOptionsTesting.Cell(1, 10)))
-            CellMaps.Add(Police_sync.Name, New LogItemCellMap("Pol Sync", Police_sync, UnitType.Amps, GridOptionsTesting.Cell(2, 10)))
+            CellMaps.Add(Pol_Pat.Name, New LogItemCellMap("Pol Pattern", Pol_Pat, UnitType.Volts, GridOptionsTesting.Cell(1, 10)))
+            CellMaps.Add(Pol_Sync.Name, New LogItemCellMap("Police Sync", Pol_Sync, UnitType.Volts, GridOptionsTesting.Cell(2, 10)))
             'CellMaps.Add(CargoLamp_Amp.Name, New LogItemCellMap("Cargo Lamp", CargoLamp_Amp, UnitType.Amps, GridOptionsTesting.Cell(1, 10)))
             'CellMaps.Add(PowerExt_Amp.Name, New LogItemCellMap("Power Extend", PowerExt_Amp, UnitType.Amps, GridOptionsTesting.Cell(3, 10)))
             'CellMaps.Add(PowerExt_Trav_Time.Name, New LogItemCellMap("Power Extend", PowerExt_Trav_Time, UnitType.Seconds, GridOptionsTesting.Cell(4, 10)))
@@ -253,6 +253,7 @@ Namespace UI.Views.MainView.SubViews
         Undefined
         Amps
         Seconds
+        Volts
     End Enum
 
     Public Class MirrorMotionItem

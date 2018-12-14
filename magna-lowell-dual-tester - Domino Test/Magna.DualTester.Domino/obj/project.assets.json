@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Domino\\Magna.DualTester.Domino.vbproj",
+      "projectUniqueName": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625_RH\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Domino\\Magna.DualTester.Domino.vbproj",
       "projectName": "Magna.DualTester.Domino",
-      "projectPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Domino\\Magna.DualTester.Domino.vbproj",
+      "projectPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625_RH\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Domino\\Magna.DualTester.Domino.vbproj",
       "packagesPath": "C:\\Users\\e40253.MAGNA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Domino\\obj\\",
+      "outputPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625_RH\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Domino\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -338,11 +338,11 @@
       "frameworks": {
         "net46": {
           "projectReferences": {
-            "C:\\Users\\e40253.MAGNA\\source\\repos\\U625\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Core\\Magna.DualTester.Core.vbproj": {
-              "projectPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Core\\Magna.DualTester.Core.vbproj"
+            "C:\\Users\\e40253.MAGNA\\source\\repos\\U625_RH\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Core\\Magna.DualTester.Core.vbproj": {
+              "projectPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625_RH\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Core\\Magna.DualTester.Core.vbproj"
             },
-            "C:\\Users\\e40253.MAGNA\\source\\repos\\U625\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Plc.Core\\Magna.DualTester.Plc.Core.vbproj": {
-              "projectPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Plc.Core\\Magna.DualTester.Plc.Core.vbproj"
+            "C:\\Users\\e40253.MAGNA\\source\\repos\\U625_RH\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Plc.Core\\Magna.DualTester.Plc.Core.vbproj": {
+              "projectPath": "C:\\Users\\e40253.MAGNA\\source\\repos\\U625_RH\\magna-lowell-dual-tester - Domino Test\\Magna.DualTester.Plc.Core\\Magna.DualTester.Plc.Core.vbproj"
             }
           }
         }
